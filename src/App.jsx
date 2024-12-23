@@ -42,7 +42,7 @@ function App() {
         </div>
         <div>
             <p>
-                &copy; Vamos Calcular um pouco? - Todos os direitos reservados - 2024.
+                &copy; Calculadora de IMC - Todos os direitos reservados - 2024.
                 Desenvolvido por André Soares
             </p>
         </div>
