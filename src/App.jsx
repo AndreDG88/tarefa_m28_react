@@ -27,12 +27,12 @@ function App() {
             <ul className={styles.socialLinks}>
                 <li>
                     <a href="https://www.instagram.com/andre.soares.designer/" target='blank' title="Siga-nos no Instagram">
-                        <img src="src\images\instagram-icon.png" alt="Logo do Instagram" />
+                        <img src="https://raw.githubusercontent.com/AndreDG88/tarefa_m28_react/refs/heads/main/src/images/instagram-icon.png" alt="Logo do Instagram" />
                     </a>
                 </li>
                 <li>
                     <a href="https://github.com/AndreDG88" target='blank' title="Siga-nos no GitHub">
-                        <img src="src/images/github-icon.svg" alt="Logo do GitHub" />
+                        <img src="https://raw.githubusercontent.com/AndreDG88/tarefa_m28_react/0fe66d598fefe04ea029fb19ddc84e269c66ac8e/src/images/github-icon.svg" alt="Logo do GitHub" />
                     </a>
                 </li>
             </ul>

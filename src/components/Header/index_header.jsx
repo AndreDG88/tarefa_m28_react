@@ -15,7 +15,7 @@ const Header = () => {
             O IMC foi criado no século XIX pelo matemático belga Lambert Adolphe Quételet. É uma ferramenta simples usada na saúde, mas não considera fatores como idade ou composição corporal.
             </p>
             </div>
-            <img className={styles.headerImg} src="src\images\imagem_header_site-imc.png" alt="lolo site IMC" />
+            <img className={styles.headerImg} src="https://raw.githubusercontent.com/AndreDG88/tarefa_m28_react/refs/heads/main/src/images/imagem_header_site-imc.png" alt="lolo site IMC" />
         </header>
     )
 }
